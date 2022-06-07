@@ -1,0 +1,1 @@
+export const DAPP_NAME = 'Ugly_Panda';
